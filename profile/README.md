@@ -59,3 +59,4 @@
 |[w3school.php](https://www.w3schools.com/typescript/typescript_getstarted.php)|박성범|
 |[알잘딱깔센 Github](https://paullabworkspace.notion.site/GitHub-435ec8074bcf4353afb947f601a030dfd)|박성범|
 |[알잘딱깔센 JavaScript](https://paullabworkspace.notion.site/GitHub-435ec8074bcf4353afb947f601a030dfd)|박성범|
+|[Do it! 타입스크립트 프로그래밍](https://paullabworkspace.notion.site/GitHub-435ec8074bcf4353afb947f601a030dfd)|양다은|
