@@ -45,7 +45,7 @@
 팔로우쉽과 리더쉽을 갖춘 개발자 [🐰Github](https://github.com/ujin16)<br>
 담당파트 : 유니온 타입 / 캐스팅 <br><br>
 ## **조민경** <br>
-사람을 좋아하는 개발자 [🖤Github](https://github.com/minkyeongJ)<br>
+커뮤니티의 힘을 아는 개발자 [🖤Github](https://github.com/minkyeongJ)<br>
 담당파트 : 함수 <br><br>
 ## **주다빈** <br>
 매일 시도하고 변화하는 개발자 [👾Github](https://github.com/joodb)<br>
